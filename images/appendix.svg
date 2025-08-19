@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 386.16 236.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #585757;
+        font-family: TimesNewRomanPS-BoldMT, 'Times New Roman';
+        font-size: 6.5px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #d7d7d8;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #a9acb1;
+        stroke-miterlimit: 10;
+        stroke-width: .43px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <line class="cls-3" x1="308.8" y1=".21" x2="308.8" y2="235.99"/>
+      <line class="cls-3" x1="231.65" y1=".21" x2="231.65" y2="235.99"/>
+      <line class="cls-3" x1="154.5" y1=".21" x2="154.5" y2="235.99"/>
+      <line class="cls-3" x1="77.36" y1=".21" x2="77.36" y2="235.99"/>
+      <rect class="cls-2" x=".21" y=".21" width="385.62" height="15.35"/>
+      <text class="cls-1" transform="translate(31.82 11.05)"><tspan x="0" y="0">Date</tspan></text>
+      <text class="cls-1" transform="translate(79.19 11.14)"><tspan x="0" y="0">Malfuntion Description</tspan></text>
+      <text class="cls-1" transform="translate(170.56 11.17)"><tspan x="0" y="0">Service Station </tspan></text>
+      <text class="cls-1" transform="translate(251.95 11.17)"><tspan x="0" y="0">Serviced by</tspan></text>
+      <text class="cls-1" transform="translate(334 11.05)"><tspan x="0" y="0">Remarks</tspan></text>
+      <line class="cls-3" x1=".21" y1="78.55" x2="385.94" y2="78.55"/>
+      <line class="cls-3" x1=".21" y1="94.29" x2="385.94" y2="94.29"/>
+      <line class="cls-3" x1=".21" y1="110.04" x2="385.94" y2="110.04"/>
+      <line class="cls-3" x1=".21" y1="125.78" x2="385.94" y2="125.78"/>
+      <line class="cls-3" x1=".21" y1="188.76" x2="385.94" y2="188.76"/>
+      <line class="cls-3" x1=".21" y1="204.51" x2="385.94" y2="204.51"/>
+      <line class="cls-3" x1=".21" y1="220.25" x2="385.94" y2="220.25"/>
+      <polyline class="cls-3" points="385.83 .21 385.94 236 .21 236 .21 .21"/>
+      <line class="cls-3" x1=".21" y1="141.53" x2="385.94" y2="141.53"/>
+      <line class="cls-3" x1=".21" y1="157.27" x2="385.94" y2="157.27"/>
+      <line class="cls-3" x1=".21" y1="173.02" x2="385.94" y2="173.02"/>
+      <line class="cls-3" x1=".21" y1="62.8" x2="385.94" y2="62.8"/>
+      <line class="cls-3" x1=".21" y1="47.05" x2="385.94" y2="47.05"/>
+      <line class="cls-3" x1=".21" y1="31.31" x2="385.94" y2="31.31"/>
+      <line class="cls-3" x1=".21" y1="15.56" x2="385.94" y2="15.56"/>
+      <line class="cls-3" x1=".21" y1=".21" x2="385.94" y2=".21"/>
+    </g>
+  </g>
+</svg>

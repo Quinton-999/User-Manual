@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 384.92 188.69">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        letter-spacing: .01em;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-34);
+      }
+
+      .cls-4 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        letter-spacing: .04em;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-21);
+      }
+
+      .cls-7 {
+        letter-spacing: .02em;
+      }
+
+      .cls-8 {
+        letter-spacing: .01em;
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-10 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-11 {
+        clip-path: url(#clippath-17);
+      }
+
+      .cls-12 {
+        clip-path: url(#clippath-31);
+      }
+
+      .cls-13 {
+        letter-spacing: .02em;
+      }
+
+      .cls-14 {
+        letter-spacing: .03em;
+      }
+
+      .cls-15 {
+        letter-spacing: .01em;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath-15);
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-33);
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath-18);
+      }
+
+      .cls-19 {
+        letter-spacing: .01em;
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-21 {
+        letter-spacing: .03em;
+      }
+
+      .cls-22 {
+        clip-path: url(#clippath-22);
+      }
+
+      .cls-23, .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31 {
+        fill: #040000;
+      }
+
+      .cls-32 {
+        letter-spacing: .03em;
+      }
+
+      .cls-33 {
+        letter-spacing: .05em;
+      }
+
+      .cls-34 {
+        clip-path: url(#clippath-23);
+      }
+
+      .cls-35 {
+        letter-spacing: .02em;
+      }
+
+      .cls-36 {
+        letter-spacing: .02em;
+      }
+
+      .cls-37 {
+        letter-spacing: .02em;
+      }
+
+      .cls-38 {
+        letter-spacing: .03em;
+      }
+
+      .cls-39 {
+        letter-spacing: .03em;
+      }
+
+      .cls-40 {
+        letter-spacing: .03em;
+      }
+
+      .cls-41 {
+        letter-spacing: 0em;
+      }
+
+      .cls-42 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-43 {
+        clip-path: url(#clippath-9);
+      }
+
+      .cls-44 {
+        clip-path: url(#clippath-10);
+      }
+
+      .cls-45 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-46 {
+        letter-spacing: .03em;
+      }
+
+      .cls-47 {
+        letter-spacing: 0em;
+      }
+
+      .cls-48 {
+        letter-spacing: .03em;
+      }
+
+      .cls-49 {
+        letter-spacing: .02em;
+      }
+
+      .cls-50 {
+        clip-path: url(#clippath-25);
+      }
+
+      .cls-51 {
+        letter-spacing: .02em;
+      }
+
+      .cls-52 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-24 {
+        font-size: 2.54px;
+      }
+
+      .cls-24, .cls-25, .cls-26, .cls-27, .cls-28, .cls-29, .cls-30, .cls-31 {
+        font-family: ChangFangSong, ChangFangSong;
+      }
+
+      .cls-25 {
+        font-size: .7px;
+      }
+
+      .cls-53 {
+        clip-path: url(#clippath-27);
+      }
+
+      .cls-54 {
+        letter-spacing: .04em;
+      }
+
+      .cls-55 {
+        letter-spacing: .04em;
+      }
+
+      .cls-56 {
+        letter-spacing: 0em;
+      }
+
+      .cls-57 {
+        letter-spacing: .03em;
+      }
+
+      .cls-58 {
+        letter-spacing: 0em;
+      }
+
+      .cls-59 {
+        clip-path: url(#clippath-11);
+      }
+
+      .cls-60 {
+        letter-spacing: .05em;
+      }
+
+      .cls-61 {
+        letter-spacing: .04em;
+      }
+
+      .cls-62 {
+        letter-spacing: .03em;
+      }
+
+      .cls-63 {
+        clip-path: url(#clippath-36);
+      }
+
+      .cls-64 {
+        clip-path: url(#clippath-35);
+      }
+
+      .cls-65 {
+        stroke: #6ab82d;
+      }
+
+      .cls-65, .cls-66, .cls-67, .cls-68 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .12px;
+      }
+
+      .cls-65, .cls-66, .cls-67, .cls-68, .cls-69 {
+        fill: none;
+      }
+
+      .cls-70 {
+        clip-path: url(#clippath-28);
+      }
+
+      .cls-71 {
+        letter-spacing: .03em;
+      }
+
+      .cls-72 {
+        letter-spacing: .02em;
+      }
+
+      .cls-73 {
+        letter-spacing: .01em;
+      }
+
+      .cls-26 {
+        font-size: 1.55px;
+      }
+
+      .cls-74 {
+        letter-spacing: .05em;
+      }
+
+      .cls-75 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-76 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-27 {
+        font-size: 2.18px;
+      }
+
+      .cls-77 {
+        letter-spacing: .04em;
+      }
+
+      .cls-78 {
+        letter-spacing: .02em;
+      }
+
+      .cls-66 {
+        stroke: #e7211a;
+      }
+
+      .cls-79 {
+        letter-spacing: .02em;
+      }
+
+      .cls-80 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-81 {
+        clip-path: url(#clippath-20);
+      }
+
+      .cls-82 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-67 {
+        stroke: #040000;
+      }
+
+      .cls-83 {
+        letter-spacing: .01em;
+      }
+
+      .cls-84 {
+        letter-spacing: .04em;
+      }
+
+      .cls-85 {
+        letter-spacing: .06em;
+      }
+
+      .cls-86 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-87 {
+        letter-spacing: .05em;
+      }
+
+      .cls-88 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-89 {
+        clip-path: url(#clippath-26);
+      }
+
+      .cls-90 {
+        letter-spacing: 0em;
+      }
+
+      .cls-68 {
+        stroke: #ab549c;
+      }
+
+      .cls-91 {
+        clip-path: url(#clippath-12);
+      }
+
+      .cls-92 {
+        letter-spacing: .04em;
+      }
+
+      .cls-28 {
+        font-size: 4.09px;
+      }
+
+      .cls-93 {
+        clip-path: url(#clippath-14);
+      }
+
+      .cls-69 {
+        clip-rule: evenodd;
+      }
+
+      .cls-94 {
+        letter-spacing: .06em;
+      }
+
+      .cls-95 {
+        letter-spacing: .05em;
+      }
+
+      .cls-29 {
+        font-size: 3.1px;
+      }
+
+      .cls-96 {
+        clip-path: url(#clippath-30);
+      }
+
+      .cls-97 {
+        clip-path: url(#clippath-19);
+      }
+
+      .cls-98 {
+        letter-spacing: .02em;
+      }
+
+      .cls-99 {
+        letter-spacing: .02em;
+      }
+
+      .cls-100 {
+        letter-spacing: .02em;
+      }
+
+      .cls-101 {
+        clip-path: url(#clippath-32);
+      }
+
+      .cls-102 {
+        letter-spacing: .03em;
+      }
+
+      .cls-103 {
+        letter-spacing: .04em;
+      }
+
+      .cls-104 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-30 {
+        font-size: 5.21px;
+      }
+
+      .cls-105 {
+        letter-spacing: .01em;
+      }
+
+      .cls-106 {
+        letter-spacing: .02em;
+      }
+
+      .cls-107 {
+        letter-spacing: .02em;
+      }
+
+      .cls-108 {
+        letter-spacing: .04em;
+      }
+
+      .cls-109 {
+        clip-path: url(#clippath-16);
+      }
+
+      .cls-110 {
+        letter-spacing: .02em;
+      }
+
+      .cls-111 {
+        letter-spacing: .03em;
+      }
+
+      .cls-112 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-113 {
+        clip-path: url(#clippath-29);
+      }
+
+      .cls-114 {
+        letter-spacing: .03em;
+      }
+
+      .cls-115 {
+        letter-spacing: .04em;
+      }
+
+      .cls-116 {
+        letter-spacing: 0em;
+      }
+
+      .cls-117 {
+        letter-spacing: 0em;
+      }
+
+      .cls-118 {
+        letter-spacing: .01em;
+      }
+
+      .cls-119 {
+        letter-spacing: .03em;
+      }
+
+      .cls-120 {
+        letter-spacing: .02em;
+      }
+
+      .cls-121 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-122 {
+        clip-path: url(#clippath-37);
+      }
+
+      .cls-123 {
+        clip-path: url(#clippath-13);
+      }
+
+      .cls-124 {
+        letter-spacing: .02em;
+      }
+
+      .cls-125 {
+        letter-spacing: .05em;
+      }
+
+      .cls-126 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-127 {
+        letter-spacing: 0em;
+      }
+
+      .cls-128 {
+        clip-path: url(#clippath-24);
+      }
+
+      .cls-129 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-130 {
+        letter-spacing: .04em;
+      }
+
+      .cls-131 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-132 {
+        letter-spacing: .03em;
+      }
+
+      .cls-133 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-134 {
+        letter-spacing: .02em;
+      }
+
+      .cls-135 {
+        letter-spacing: .03em;
+      }
+
+      .cls-31 {
+        font-size: 1.97px;
+      }
+
+      .cls-136 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-137 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-138 {
+        letter-spacing: .03em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-69" points="18.84 12.25 18.9 12.36 18.95 12.41 19 12.52 19.16 12.57 19.53 12.57 19.53 12.52 19.68 12.52 19.68 12.41 19.79 12.31 19.84 11.83 19.79 11.83 19.58 11.62 19.11 11.57 18.9 11.78 18.84 11.94 18.84 12.25"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <polygon class="cls-69" points="308.98 35.58 309.03 35.74 309.14 35.84 309.45 35.95 309.5 35.89 309.66 35.89 309.66 35.84 309.82 35.84 309.82 35.79 309.87 35.74 309.92 35.63 309.97 35.16 309.92 35.16 309.71 34.95 309.24 34.9 309.03 35.11 308.98 35.26 308.98 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <polygon class="cls-69" points="276.85 30.08 276.9 30.23 277.01 30.34 277.11 30.39 277.16 30.44 277.53 30.44 277.53 30.39 277.58 30.34 277.69 30.34 277.69 30.28 277.74 30.23 277.79 30.13 277.84 29.66 277.79 29.66 277.63 29.5 277.48 29.45 277.22 29.39 277.22 29.45 277.06 29.45 276.9 29.6 276.85 29.76 276.85 30.08"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <polygon class="cls-69" points="102.18 35.58 102.24 35.74 102.34 35.84 102.45 35.89 102.5 35.95 102.87 35.95 102.87 35.89 102.92 35.84 103.02 35.84 103.02 35.79 103.08 35.74 103.13 35.63 103.18 35.21 103.13 35.21 103.08 35.16 103.02 35.05 102.97 35 102.39 34.95 102.29 35.05 102.18 35.26 102.18 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <polygon class="cls-69" points="108.37 30.13 108.42 30.23 108.53 30.34 108.63 30.39 108.68 30.44 109.05 30.44 109.05 30.39 109.1 30.34 109.21 30.34 109.21 30.28 109.26 30.23 109.31 30.13 109.37 29.76 109.31 29.76 109.21 29.55 109.16 29.5 108.58 29.45 108.47 29.55 108.37 29.76 108.37 30.13"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <polygon class="cls-69" points="264.69 35.58 264.74 35.74 264.85 35.84 264.95 35.89 265 35.95 265.37 35.95 265.37 35.89 265.42 35.84 265.53 35.84 265.53 35.79 265.58 35.74 265.63 35.63 265.68 35.16 265.63 35.16 265.47 35 265.32 34.95 265.05 34.9 265.05 34.95 264.9 34.95 264.74 35.11 264.69 35.26 264.69 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <polygon class="cls-69" points="317.78 17.6 317.84 17.76 317.94 17.81 317.99 17.86 318.1 17.91 318.26 17.97 318.31 17.91 318.52 17.91 318.52 17.86 318.62 17.86 318.62 17.81 318.68 17.76 318.78 17.76 318.73 17.13 318.68 17.08 318.57 17.02 318.52 16.97 318.1 16.92 318.05 16.97 318.05 17.02 317.94 17.02 317.84 17.13 317.78 17.29 317.78 17.6"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <polygon class="cls-69" points="327.53 41.61 327.59 41.76 327.69 41.87 327.8 41.92 327.85 41.97 328.22 41.97 328.22 41.92 328.27 41.87 328.37 41.87 328.37 41.82 328.43 41.76 328.48 41.66 328.53 41.19 328.48 41.19 328.32 41.03 328.16 40.98 327.9 40.93 327.9 40.98 327.74 40.98 327.59 41.13 327.53 41.29 327.53 41.61"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <polygon class="cls-69" points="348.29 41.61 348.34 41.71 348.5 41.87 348.6 41.92 348.97 41.92 348.97 41.87 349.13 41.87 349.13 41.76 349.23 41.66 349.29 41.19 349.23 41.19 349.18 41.13 349.13 41.03 349.08 40.98 348.55 40.93 348.34 41.13 348.29 41.24 348.29 41.61"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <polygon class="cls-69" points="353.79 35.58 353.85 35.68 353.9 35.74 353.95 35.84 354.26 35.95 354.32 35.89 354.47 35.89 354.47 35.84 354.63 35.84 354.63 35.74 354.74 35.63 354.79 35.16 354.74 35.16 354.53 34.95 354.06 34.9 353.85 35.11 353.79 35.26 353.79 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <polygon class="cls-69" points="342.94 30.02 343 30.18 343.1 30.28 343.21 30.34 343.26 30.39 343.62 30.39 343.62 30.34 343.68 30.28 343.78 30.28 343.78 30.23 343.83 30.18 343.89 30.08 343.94 29.6 343.89 29.6 343.73 29.45 343.57 29.39 343.31 29.34 343.31 29.39 343.15 29.39 343 29.55 342.94 29.71 342.94 30.02"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <polygon class="cls-69" points="174.78 107.39 174.83 107.44 174.88 107.55 174.99 107.65 175.3 107.75 175.36 107.7 175.51 107.7 175.51 107.65 175.62 107.65 175.62 107.6 175.67 107.55 175.77 107.55 175.72 106.92 175.67 106.86 175.57 106.81 175.51 106.76 175.09 106.71 174.83 106.97 174.78 107.07 174.78 107.39"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <polygon class="cls-69" points="160.52 119.02 160.57 119.18 160.68 119.23 160.84 119.39 161.2 119.39 161.2 119.34 161.26 119.29 161.36 119.29 161.36 119.23 161.41 119.18 161.47 119.08 161.52 118.6 161.47 118.6 161.31 118.45 161.15 118.4 160.89 118.34 160.89 118.4 160.78 118.4 160.78 118.45 160.68 118.45 160.57 118.55 160.52 118.71 160.52 119.02"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <polygon class="cls-69" points="198.58 111.95 198.63 112.11 198.73 112.21 198.84 112.26 198.89 112.31 199.26 112.31 199.26 112.26 199.31 112.21 199.41 112.21 199.41 112.16 199.47 112.11 199.52 112 199.57 111.53 199.52 111.53 199.36 111.37 199.2 111.32 198.94 111.27 198.94 111.32 198.79 111.32 198.63 111.48 198.58 111.63 198.58 111.95"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <polygon class="cls-69" points="202.82 115.93 202.87 116.09 202.98 116.19 203.08 116.25 203.14 116.3 203.5 116.3 203.5 116.25 203.55 116.19 203.66 116.19 203.66 116.14 203.71 116.09 203.76 115.93 203.82 115.62 203.76 115.62 203.71 115.46 203.61 115.35 203.45 115.3 203.19 115.25 203.19 115.3 203.03 115.3 202.87 115.46 202.82 115.62 202.82 115.93"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <polygon class="cls-69" points="56.27 35.63 56.32 35.68 56.48 35.84 56.58 35.89 56.64 35.95 57 35.95 57 35.89 57.05 35.84 57.16 35.84 57.16 35.79 57.21 35.74 57.26 35.63 57.32 35.26 57.26 35.26 57.16 35.05 57.11 35 56.53 34.95 56.43 35.05 56.37 35.16 56.27 35.26 56.27 35.63"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <polygon class="cls-69" points="45.21 17.6 45.26 17.65 45.31 17.76 45.52 17.97 45.94 17.97 45.94 17.91 46.1 17.76 46.2 17.76 46.15 17.18 46 17.02 45.47 16.97 45.37 17.08 45.31 17.18 45.21 17.29 45.21 17.6"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <polygon class="cls-69" points="167.96 30.08 168.02 30.13 168.07 30.23 168.17 30.34 168.28 30.39 168.33 30.44 168.7 30.44 168.7 30.39 168.86 30.23 168.96 30.23 168.96 30.08 169.01 29.76 168.96 29.76 168.91 29.66 168.75 29.5 168.23 29.45 168.12 29.55 168.07 29.66 167.96 29.76 167.96 30.08"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <polygon class="cls-69" points="188.72 35.58 188.77 35.63 188.83 35.74 188.93 35.84 189.04 35.89 189.09 35.95 189.46 35.95 189.46 35.89 189.51 35.84 189.61 35.84 189.61 35.79 189.66 35.74 189.72 35.58 189.77 35.26 189.72 35.26 189.66 35.11 189.56 35 189.4 34.95 189.14 34.9 189.14 34.95 188.98 34.95 188.77 35.16 188.72 35.26 188.72 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <polygon class="cls-69" points="322.92 35.58 322.97 35.63 323.03 35.74 323.13 35.84 323.45 35.95 323.5 35.89 323.66 35.89 323.66 35.84 323.76 35.84 323.76 35.79 323.81 35.74 323.92 35.74 323.92 35.58 323.97 35.26 323.92 35.26 323.86 35.11 323.81 35.05 323.71 35 323.66 34.95 323.24 34.9 322.97 35.16 322.92 35.26 322.92 35.58"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <polygon class="cls-69" points="358.77 22.95 358.82 23.1 358.93 23.21 359.24 23.31 359.3 23.26 359.45 23.26 359.45 23.21 359.61 23.21 359.61 23.16 359.66 23.1 359.72 22.95 359.77 22.63 359.72 22.63 359.66 22.47 359.51 22.32 359.03 22.27 358.82 22.47 358.77 22.63 358.77 22.95"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <polygon class="cls-69" points="267.47 97.22 267.52 97.38 267.62 97.43 267.78 97.59 268.2 97.59 268.2 97.53 268.36 97.38 268.41 97.27 268.46 96.8 268.41 96.8 268.25 96.64 268.15 96.59 267.83 96.54 267.83 96.59 267.73 96.59 267.73 96.64 267.62 96.64 267.52 96.75 267.47 96.9 267.47 97.22"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <polygon class="cls-69" points="264.69 82.39 264.74 82.54 264.85 82.65 264.95 82.7 265 82.75 265.37 82.75 265.37 82.7 265.42 82.65 265.53 82.65 265.53 82.6 265.58 82.54 265.63 82.44 265.68 81.97 265.63 81.97 265.47 81.81 265.32 81.76 265.05 81.7 265.05 81.76 264.9 81.76 264.74 81.91 264.69 82.07 264.69 82.39"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <polygon class="cls-69" points="88.19 41.61 88.24 41.76 88.35 41.87 88.66 41.97 88.71 41.92 88.87 41.92 88.87 41.87 89.03 41.87 89.03 41.82 89.08 41.76 89.13 41.61 89.19 41.29 89.13 41.29 89.08 41.13 88.92 40.98 88.45 40.93 88.24 41.13 88.19 41.29 88.19 41.61"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <polygon class="cls-69" points="212.94 107.39 212.99 107.44 213.04 107.55 213.15 107.65 213.46 107.75 213.51 107.7 213.67 107.7 213.67 107.65 213.83 107.65 213.83 107.6 213.88 107.55 213.93 107.39 213.99 107.07 213.93 107.07 213.88 106.92 213.72 106.76 213.25 106.71 212.99 106.97 212.94 107.07 212.94 107.39"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <polygon class="cls-69" points="95.16 23 95.21 23.05 95.27 23.16 95.37 23.26 95.68 23.37 95.74 23.31 95.89 23.31 95.89 23.26 96.05 23.26 96.05 23.21 96.1 23.16 96.16 23 96.21 22.68 96.16 22.68 96.1 22.53 95.95 22.37 95.48 22.32 95.21 22.58 95.16 22.68 95.16 23"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <polygon class="cls-69" points="167.96 83.8 168.02 83.85 168.07 83.96 168.17 84.06 168.49 84.17 168.54 84.12 168.7 84.12 168.7 84.06 168.86 84.06 168.86 84.01 168.91 83.96 168.96 83.8 169.01 83.49 168.96 83.49 168.91 83.33 168.8 83.22 168.65 83.17 168.38 83.12 168.38 83.17 168.23 83.17 168.02 83.38 167.96 83.49 167.96 83.8"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <polygon class="cls-69" points="237.47 30.08 237.52 30.23 237.62 30.28 237.78 30.44 238.15 30.44 238.15 30.39 238.2 30.34 238.31 30.34 238.31 30.28 238.36 30.23 238.41 30.13 238.46 29.66 238.41 29.66 238.25 29.5 238.1 29.45 237.83 29.39 237.83 29.45 237.73 29.45 237.73 29.5 237.62 29.5 237.52 29.6 237.47 29.76 237.47 30.08"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <polygon class="cls-69" points="55.59 17.6 55.64 17.76 55.74 17.86 55.85 17.91 55.9 17.97 56.27 17.97 56.27 17.91 56.32 17.86 56.43 17.86 56.43 17.81 56.48 17.76 56.53 17.65 56.58 17.18 56.53 17.18 56.37 17.02 56.22 16.97 55.95 16.92 55.95 16.97 55.8 16.97 55.64 17.13 55.59 17.29 55.59 17.6"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <polygon class="cls-69" points="26.65 12.25 26.71 12.36 26.76 12.41 26.81 12.52 27.13 12.62 27.18 12.57 27.34 12.57 27.34 12.52 27.49 12.52 27.49 12.41 27.55 12.36 27.6 12.25 27.65 11.94 27.6 11.94 27.55 11.78 27.39 11.62 26.92 11.57 26.71 11.78 26.65 11.94 26.65 12.25"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <polygon class="cls-69" points="75.77 23 75.82 23.05 75.98 23.21 76.08 23.26 76.13 23.31 76.5 23.31 76.5 23.26 76.55 23.21 76.66 23.21 76.66 23.16 76.71 23.1 76.76 23 76.82 22.63 76.76 22.63 76.66 22.42 76.61 22.37 76.03 22.32 75.92 22.42 75.87 22.53 75.77 22.63 75.77 23"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <polygon class="cls-69" points="81.11 23 81.17 23.05 81.22 23.16 81.32 23.26 81.64 23.37 81.69 23.31 81.85 23.31 81.85 23.26 82 23.26 82 23.21 82.06 23.16 82.11 23 82.16 22.68 82.11 22.68 82.06 22.53 81.9 22.37 81.43 22.32 81.17 22.58 81.11 22.68 81.11 23"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <polygon class="cls-69" points="28.23 35.63 28.28 35.74 28.33 35.79 28.38 35.89 28.54 35.95 28.91 35.95 28.91 35.89 29.07 35.89 29.07 35.79 29.17 35.68 29.22 35.21 29.17 35.21 28.96 35 28.49 34.95 28.28 35.16 28.23 35.26 28.23 35.63"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <polygon class="cls-69" points="167.96 96.33 168.02 96.38 168.07 96.49 168.17 96.59 168.49 96.7 168.54 96.64 168.7 96.64 168.7 96.59 168.86 96.59 168.86 96.54 168.91 96.49 168.96 96.33 169.01 96.01 168.96 96.01 168.91 95.86 168.8 95.75 168.65 95.7 168.38 95.65 168.38 95.7 168.23 95.7 168.02 95.91 167.96 96.01 167.96 96.33"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <polygon class="cls-69" points="160.52 96.33 160.57 96.49 160.68 96.54 160.73 96.59 160.84 96.64 160.99 96.7 161.05 96.64 161.2 96.64 161.2 96.59 161.36 96.59 161.36 96.54 161.41 96.49 161.47 96.38 161.52 95.91 161.47 95.91 161.31 95.75 161.15 95.7 160.89 95.65 160.89 95.7 160.78 95.7 160.78 95.75 160.68 95.75 160.57 95.86 160.52 96.01 160.52 96.33"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <polygon class="cls-69" points="202.82 98.06 202.87 98.22 202.98 98.32 203.08 98.37 203.14 98.42 203.5 98.42 203.5 98.37 203.55 98.32 203.66 98.32 203.66 98.27 203.71 98.22 203.76 98.06 203.82 97.74 203.76 97.74 203.71 97.59 203.61 97.48 203.45 97.43 203.19 97.38 203.19 97.43 203.03 97.43 202.87 97.59 202.82 97.74 202.82 98.06"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <polygon class="cls-69" points="198.58 91.35 198.63 91.51 198.73 91.61 199.05 91.72 199.1 91.66 199.26 91.66 199.26 91.61 199.41 91.61 199.41 91.56 199.47 91.51 199.52 91.4 199.57 90.93 199.52 90.93 199.31 90.72 198.84 90.67 198.63 90.88 198.58 91.03 198.58 91.35"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <polygon class="cls-69" points="200.67 72.37 200.72 72.53 200.83 72.64 201.14 72.74 201.2 72.69 201.35 72.69 201.35 72.64 201.51 72.64 201.51 72.58 201.56 72.53 201.62 72.37 201.67 72.06 201.62 72.06 201.56 71.9 201.46 71.8 201.3 71.75 201.04 71.69 201.04 71.75 200.88 71.75 200.72 71.9 200.67 72.06 200.67 72.37"/>
+    </clipPath>
+  </defs>
+  <g id="_图层_1-2" data-name="图层 1">
+    <g>
+      <text class="cls-28" transform="translate(301.06 168.13) scale(1 1.03)"><tspan x="0" y="0">转</tspan></text>
+      <text class="cls-28" transform="translate(304.21 168.13) scale(1 1.03)"><tspan x="0" y="0">把</tspan></text>
+      <line class="cls-67" x1=".53" y1="35.47" x2="384.65" y2="35.42"/>
+      <line class="cls-68" x1=".74" y1="29.97" x2="384.54" y2="29.87"/>
+      <text class="cls-27" transform="translate(.16 28.58) scale(1 1.04)"><tspan x="0" y="0">D</tspan><tspan class="cls-55" x="1.09" y="0">C</tspan><tspan class="cls-71" x="2.26" y="0">D</tspan><tspan class="cls-114" x="3.42" y="0">C</tspan><tspan class="cls-47" x="4.57" y="0">_</tspan><tspan class="cls-87" x="5.66" y="0">1</tspan><tspan class="cls-110" x="6.85" y="0">2</tspan><tspan class="cls-47" x="7.97" y="0">V</tspan></text>
+      <path class="cls-66" d="M.11,22.79h384.32M.06,17.44h384.79"/>
+      <line class="cls-65" x1="1.11" y1="41.45" x2="384.65" y2="41.4"/>
+      <path class="cls-66" d="M19.32,16.6v-4.51M19.32,22v-3.77M19.32,29.18v-5.56M19.32,34.64v-3.83M19.32,40.66v-4.4M19.32,45.64v-3.35M19.32,124.58V45.64"/>
+      <g class="cls-131">
+        <rect class="cls-23" x="18.79" y="11.57" width="1.05" height="1"/>
+      </g>
+      <path class="cls-66" d="M19.32,42.29l.47-.16.31-.42v-.47l-.31-.42-.47-.16M19.32,36.26l.47-.16.31-.37v-.52l-.31-.42-.47-.16M19.32,30.81l.47-.16.31-.42v-.52l-.31-.42-.47-.1M19.32,23.63l.47-.16.31-.42v-.52l-.31-.37-.47-.16"/>
+      <path class="cls-67" d="M354.26,40.66v-5.24M354.26,45.59v-3.3M354.26,127.78V45.59"/>
+      <path class="cls-68" d="M343.47,106.71l-.05-61.12M343.47,127.78v-21.07"/>
+      <line class="cls-65" x1="348.76" y1="127.78" x2="348.76" y2="41.45"/>
+      <text class="cls-28" transform="translate(104.18 137.83) scale(1 1.03)"><tspan x="0" y="0">I</tspan><tspan class="cls-15" x="2.04" y="0">C</tspan><tspan class="cls-118" x="4.13" y="0">M</tspan><tspan x="6.23" y="0">(</tspan></text>
+      <text class="cls-28" transform="translate(110.26 137.83) scale(1 1.03)"><tspan class="cls-100" x="0" y="0">集</tspan><tspan x="4.18" y="0">成</tspan></text>
+      <text class="cls-28" transform="translate(116.55 137.83) scale(1 1.03)"><tspan x="0" y="0">A</tspan><tspan class="cls-78" x="2.04" y="0">L</tspan><tspan class="cls-8" x="4.15" y="0">M</tspan><tspan class="cls-127" x="6.25" y="0">)</tspan></text>
+      <text class="cls-31" transform="translate(102.05 128) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(108.55 128) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">8</tspan></text>
+      <path class="cls-67" d="M102.66,40.66v-5.19M102.66,45.59v-3.3M102.66,124.53V45.59"/>
+      <line class="cls-68" x1="108.84" y1="124.53" x2="108.84" y2="45.59"/>
+      <text class="cls-31" transform="translate(136.43 127.59) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(125.58 127.64) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(131.04 127.64) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">2</tspan></text>
+      <path class="cls-67" d="M267.99,90.51v13.1M268.25,90.25l-.1-.16-.16-.1-.21.1-.1.16.1.21.21.05.16-.05.1-.21M268.25,88.1l-.1-.16-.16-.1-.21.1-.1.16.1.21.21.1.16-.1.1-.21M269.04,88.1v2.15h-.26v-2.15h.26M262.64,90.35l-.1-.16-.16-.1-.21.1-.05.16.05.21.21.05.16-.05.1-.21M262.64,88.26l-.1-.21-.16-.1-.21.1-.05.21.05.16.21.1.16-.1.1-.16M263.43,88.26v2.1h-.26v-2.1h.26M267.99,85.37v2.46M269.41,85.37v6.76h-2.99v-6.76h2.99M262.38,82.23h5.61M262.38,85.48v2.46M262.38,85.48v-3.25M267.99,85.37v-3.14M263.8,85.48v6.76h-2.99v-6.76h2.99"/>
+      <text class="cls-24" transform="translate(257.55 86.17) rotate(90) scale(1 1.02)"><tspan class="cls-98" x="0" y="0">左</tspan><tspan class="cls-1" x="2.57" y="0">刹车</tspan></text>
+      <text class="cls-24" transform="translate(269.97 86.07) rotate(90) scale(1 1.02)"><tspan class="cls-120" x="0" y="0">右</tspan><tspan class="cls-1" x="2.59" y="0">刹车</tspan></text>
+      <path class="cls-67" d="M261.07,124.95h72.39M261.07,143.66v-18.71M333.46,143.66h-72.39M262.38,90.61v6.5"/>
+      <text class="cls-30" transform="translate(295.51 135.64)"><tspan x="0" y="0">M</tspan><tspan class="cls-117" x="2.61" y="0">C</tspan><tspan class="cls-4" x="5.23" y="0">U</tspan></text>
+      <text class="cls-31" transform="translate(281.52 143) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">6</tspan></text>
+      <text class="cls-31" transform="translate(284.46 142.89) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">4</tspan></text>
+      <text class="cls-31" transform="translate(286.97 143) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(289.49 142.99) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">2</tspan></text>
+      <text class="cls-31" transform="translate(274.66 143.05) scale(1 1.05)"><tspan x="0" y="0">U</tspan></text>
+      <text class="cls-31" transform="translate(276.39 143.05) scale(1 1.05)"><tspan x="0" y="0">V</tspan></text>
+      <text class="cls-31" transform="translate(278.33 143.05) scale(1 1.05)"><tspan x="0" y="0">W</tspan></text>
+      <text class="cls-31" transform="translate(316.95 127.74) scale(1 1.05)"><tspan class="cls-136" x="0" y="0">电</tspan><tspan x="1.93" y="0">源</tspan></text>
+      <path class="cls-67" d="M279.63,160.59v4.3M279.63,160.59l-1.62,4.3M276.38,160.59l1.62,4.3M276.38,160.59v4.3M281.2,162.74l-.1-.89-.31-.84-.58-.68-.73-.58-.79-.31-.94-.16-.89.16-.79.31-.73.58-.58.68-.31.84-.1.89.1.89.31.84.58.73.73.52.79.37.89.1.94-.1.79-.37.73-.52.58-.73.31-.84.1-.89M273.76,167.04v-8.49M295.61,167.04h-21.86M295.61,158.55v8.49M273.76,158.55h21.86"/>
+      <text class="cls-31" transform="translate(281.84 160.45) scale(1 1.05)"><tspan x="0" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(284.62 160.45) scale(1 1.05)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(287.29 160.45) scale(1 1.05)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-31" transform="translate(290.02 160.45) scale(1 1.05)"><tspan x="0" y="0">5</tspan></text>
+      <path class="cls-66" d="M278.74,143.66v14.89M276.74,143.66v14.89M274.91,143.66v14.89"/>
+      <text class="cls-31" transform="translate(274.66 160.5) scale(1 1.05)"><tspan x="0" y="0">U</tspan></text>
+      <text class="cls-31" transform="translate(276.39 160.5) scale(1 1.05)"><tspan x="0" y="0">V</tspan></text>
+      <text class="cls-31" transform="translate(278.33 160.5) scale(1 1.05)"><tspan x="0" y="0">W</tspan></text>
+      <path class="cls-67" d="M282.25,143.66v14.89M285.13,143.66v14.89M287.7,143.66v14.89M290.32,143.66v14.89"/>
+      <path class="cls-66" d="M318.31,22v-4.56M318.31,29.13v-5.5M318.31,34.64v-3.88M318.31,40.61v-4.35M318.31,45.59v-3.35M318.31,124.95V45.59"/>
+      <path class="cls-67" d="M309.24,145.49v1.78M298.6,150.47l10.64-3.2M298.6,150.47v1.78M308.35,162.74v-19.08M303.84,162.74v-19.08M299.44,162.74v-19.08M333.46,124.95v18.71"/>
+      <text class="cls-26" transform="translate(299.22 164.58) scale(1 1.01)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-26" transform="translate(303.57 164.58) scale(1 1.01)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-26" transform="translate(308.18 164.58) scale(1 1.01)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-31" transform="translate(307.36 143) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">7</tspan></text>
+      <text class="cls-31" transform="translate(302.86 143) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(298.61 142.99) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">6</tspan></text>
+      <text class="cls-31" transform="translate(267.22 127.59) scale(1 1.05)"><tspan x="0" y="0">C3</tspan></text>
+      <line class="cls-67" x1="267.99" y1="124.95" x2="267.99" y2="103.61"/>
+      <text class="cls-31" transform="translate(327.33 127.59) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(295.25 127.59) scale(1 1.05)"><tspan x="0" y="0">C</tspan><tspan class="cls-84" x=".99" y="0">1</tspan><tspan x="2.06" y="0">6</tspan></text>
+      <path class="cls-67" d="M296.56,102.41h-13.68M296.56,124.95v-22.54"/>
+      <line class="cls-65" x1="328.01" y1="124.95" x2="328.01" y2="45.59"/>
+      <line class="cls-67" x1="175.57" y1="115.77" x2="131.75" y2="115.77"/>
+      <text class="cls-31" transform="translate(292.27 142.99) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(292.79 160.45) scale(1 1.05)"><tspan x="0" y="0">6</tspan></text>
+      <path class="cls-67" d="M285.08,58.54h1.78M285.08,56.7h6.45v3.88h-6.45v-3.88M126.51,124.53v-12.74M131.75,124.53v-8.75M175.57,111.79h-49.06M137.2,118.92h23.8M137.2,124.53v-5.61M293.1,143.66v14.89"/>
+      <text class="cls-29" transform="translate(283.88 56.11) scale(1 1.01)"><tspan class="cls-104" x="0" y="0">喇</tspan><tspan x="3.01" y="0">叭开关</tspan></text>
+      <path class="cls-67" d="M304.73,59.11h-2.15M302.85,59.11v-.26M304.47,59.11v-.26M302.58,59.11l-.79,1.57M305.52,60.69l-.79-1.57M305.52,60.69h-3.72M304.73,58.85v-.58M302.58,58.85h2.15M302.58,58.27v.58M304.73,58.27h-2.15M291.52,58.59h-2.46M289.06,58.59v-.1l-.1-.05-.1.05-.05.1.05.05.1.05.1-.05v-.05M287.12,58.54l-.05-.1-.1-.05-.1.05v.21l.1.05.1-.05.05-.1"/>
+      <text class="cls-29" transform="translate(300.08 56.84) scale(1 1.01)"><tspan class="cls-121" x="0" y="0">电</tspan><tspan class="cls-137" x="2.96" y="0">喇</tspan><tspan x="6.02" y="0">叭</tspan></text>
+      <path class="cls-68" d="M277.32,34.64v-4.72M277.32,40.66v-4.4M277.32,45.59v-3.3M277.32,58.64v-13.05M285.08,58.64h-7.76"/>
+      <path class="cls-67" d="M309.45,58.59v-13M304.73,58.59h4.72M291.52,58.59h11.06"/>
+      <g class="cls-76">
+        <rect class="cls-23" x="308.93" y="34.9" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-112">
+        <rect class="cls-23" x="276.8" y="29.39" width="1.05" height="1.05"/>
+      </g>
+      <path class="cls-68" d="M277.32,36.26l.47-.16.31-.42v-.47l-.31-.42-.47-.16M277.32,42.29l.47-.16.31-.42v-.52l-.31-.37-.47-.16"/>
+      <path class="cls-67" d="M265.16,40.61v-5.19M265.16,45.59v-3.35M265.16,82.23v-36.64"/>
+      <g class="cls-88">
+        <rect class="cls-23" x="102.13" y="34.95" width="1.05" height="1"/>
+      </g>
+      <g class="cls-20">
+        <rect class="cls-23" x="108.32" y="29.45" width="1.05" height="1"/>
+      </g>
+      <g class="cls-80">
+        <rect class="cls-23" x="264.64" y="34.9" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-9">
+        <rect class="cls-23" x="317.78" y="16.92" width="1" height="1.05"/>
+      </g>
+      <g class="cls-10">
+        <rect class="cls-23" x="327.48" y="40.93" width="1.05" height="1.05"/>
+      </g>
+      <polyline class="cls-67" points="102.66 42.29 103.13 42.13 103.44 41.71 103.44 41.19 103.13 40.77 102.66 40.66"/>
+      <path class="cls-68" d="M108.84,42.29l.47-.16.31-.42v-.52l-.31-.42-.47-.1M108.84,36.26l.47-.16.31-.42v-.47l-.31-.42-.47-.16"/>
+      <path class="cls-67" d="M309.45,42.29l.47-.16.31-.42v-.52l-.31-.42-.47-.1M265.16,42.24l.47-.16.31-.37v-.52l-.31-.42-.47-.16"/>
+      <path class="cls-66" d="M318.31,30.76l.47-.16.26-.42v-.52l-.26-.37-.47-.16M318.31,36.26l.47-.16.26-.42v-.47l-.26-.42-.47-.16M318.31,42.24l.47-.16.26-.37v-.52l-.26-.42-.47-.16"/>
+      <polyline class="cls-67" points="354.26 42.29 354.74 42.13 355.05 41.71 355.05 41.19 354.74 40.77 354.26 40.66"/>
+      <path class="cls-68" d="M343.41,36.26l.47-.16.31-.42v-.52l-.31-.42-.47-.16M343.41,42.24l.47-.16.31-.42v-.47l-.31-.42-.47-.16"/>
+      <g class="cls-82">
+        <rect class="cls-23" x="348.29" y="40.93" width="1" height="1"/>
+      </g>
+      <g class="cls-43">
+        <rect class="cls-23" x="353.74" y="34.9" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-44">
+        <rect class="cls-23" x="342.89" y="29.34" width="1.05" height="1.05"/>
+      </g>
+      <path class="cls-68" d="M108.84,34.64v-4.66M108.84,40.66v-4.4M108.84,45.59v-3.3"/>
+      <path class="cls-67" d="M309.45,40.66v-5.24M309.45,45.59v-3.3"/>
+      <line class="cls-65" x1="328.01" y1="45.59" x2="328.01" y2="41.45"/>
+      <path class="cls-68" d="M343.41,34.58v-4.66M343.41,40.61v-4.35M343.41,45.59v-3.35"/>
+      <path class="cls-67" d="M158.16,142.03v-12.95M178.08,142.03h-19.92M178.08,129.09v12.95M158.16,129.09h19.92M246.01,97.11h21.98"/>
+      <text class="cls-24" transform="translate(157.87 145.17) scale(1 1.02)"><tspan class="cls-19" x="0" y="0">前</tspan><tspan class="cls-126" x="2.57" y="0">照</tspan><tspan x="5.06" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(173.01 131.46) scale(1 1.05)"><tspan class="cls-57" x="0" y="0">位</tspan><tspan class="cls-125" x="2.04" y="0">置</tspan><tspan x="4.1" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(166.31 131.46) scale(1 1.05)"><tspan class="cls-103" x="0" y="0">近</tspan><tspan class="cls-60" x="2.05" y="0">光</tspan><tspan x="4.12" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(158.81 131.46) scale(1 1.05)"><tspan class="cls-46" x="0" y="0">远</tspan><tspan class="cls-60" x="2.04" y="0">光</tspan><tspan x="4.1" y="0">灯</tspan></text>
+      <path class="cls-67" d="M197.63,142.09v-13M200.51,142.09h-2.88M200.51,129.09v13M197.63,129.09h2.88"/>
+      <text class="cls-24" transform="translate(194.15 131.3) rotate(90) scale(1 1.02)"><tspan class="cls-73" x="0" y="0">前左</tspan><tspan x="5.14" y="0">转</tspan><tspan class="cls-75" x="7.68" y="0">向</tspan><tspan class="cls-1" x="10.18" y="0">灯</tspan></text>
+      <path class="cls-67" d="M168.7,136.37l-.63.05M168.65,136.37h.47M169.33,134.33h-1.36M167.96,134.33l.68,2.04"/>
+      <text class="cls-25" transform="translate(168.97 136.51) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(169.34 136.25) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M161.1,136.37l-.58.05M161.05,136.37h.47M161.73,134.33h-1.36M160.36,134.33l.68,2.04M168.65,136.37l.68-2.04"/>
+      <text class="cls-25" transform="translate(161.37 136.51) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(161.74 136.25) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M175.41,136.37l-.58.05M175.36,136.37h.47M176.04,134.33h-1.36M174.67,134.33l.68,2.04M161.05,136.37l.68-2.04"/>
+      <text class="cls-25" transform="translate(175.68 136.51) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(176.1 136.25) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M175.36,136.37v1.31M161.05,136.37v1.31M168.65,137.68v4.35M161.05,137.68h14.31M168.65,136.37v1.31M175.36,134.33v-2.57M161.05,134.33v-2.57M168.65,134.33v-2.57M175.36,136.37l.68-2.04"/>
+      <text class="cls-24" transform="translate(205.58 131.2) rotate(90) scale(1 1.02)"><tspan class="cls-73" x="0" y="0">前</tspan><tspan class="cls-120" x="2.57" y="0">右</tspan><tspan x="5.17" y="0">转</tspan><tspan class="cls-45" x="7.7" y="0">向</tspan><tspan x="10.21" y="0">灯</tspan></text>
+      <path class="cls-67" d="M220.33,142.03v-12.95M240.87,142.03h-20.55M240.87,129.09v12.95M220.33,129.09h20.55"/>
+      <text class="cls-24" transform="translate(224.38 145.06) scale(1 1.02)"><tspan x="0" y="0">后</tspan><tspan class="cls-119" x="2.54" y="0">尾</tspan><tspan x="5.14" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(236.07 131.94) scale(1 1.05)"><tspan x="0" y="0">刹</tspan><tspan class="cls-108" x="1.97" y="0">车</tspan><tspan class="cls-116" x="4.03" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(230.93 131.94) scale(1 1.05)"><tspan class="cls-57" x="0" y="0">位</tspan><tspan class="cls-125" x="2.04" y="0">置</tspan><tspan x="4.1" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(226 131.94) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">左</tspan><tspan class="cls-5" x="2.01" y="0">转</tspan><tspan x="4.06" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(221.02 131.94) scale(1 1.05)"><tspan class="cls-62" x="0" y="0">右</tspan><tspan class="cls-54" x="2.03" y="0">转</tspan><tspan class="cls-116" x="4.08" y="0">灯</tspan></text>
+      <line class="cls-67" x1="223.42" y1="137.53" x2="233.27" y2="137.53"/>
+      <path class="cls-68" d="M168.49,101.05v28.04M168.49,79.87v8.02"/>
+      <path class="cls-67" d="M199.15,136.79h-.58M199.1,136.79h.47M199.78,134.7h-1.36M198.42,134.7l.68,2.1M168.65,142.03v21.49M223.32,129.09v-13.31M203.29,129.09v-10.27M203.29,85.95v32.86M199.05,85.85v43.24M201.14,83.96v-11.74"/>
+      <text class="cls-25" transform="translate(199.41 136.88) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(199.78 136.62) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M203.4,136.79h-.58M203.35,136.79h.47M204.03,134.7h-1.36M202.66,134.7l.68,2.1M201.77,142.09v-13M204.87,142.09h-3.09M204.87,129.09v13M201.77,129.09h3.09M199.05,142.09v21.44M199.1,136.79v3.25M199.1,134.7v-3.67M199.1,136.79l.68-2.1"/>
+      <text class="cls-25" transform="translate(203.66 136.88) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(204.03 136.62) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M223.47,136.27h-.58M223.42,136.27h.47M224.1,134.17h-1.36M222.74,134.17l.68,2.1M203.29,142.09v21.44M203.35,136.79v3.25M203.35,134.7v-3.67M203.35,136.79l.68-2.1"/>
+      <text class="cls-25" transform="translate(223.73 136.36) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(224.15 136.1) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M228.5,136.27h-.58M228.45,136.27h.52M229.13,134.17h-1.36M227.77,134.17l.68,2.1M223.42,136.27v1.26M223.42,134.17v-2.15M223.42,136.27l.68-2.1"/>
+      <text class="cls-25" transform="translate(228.81 136.36) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(229.18 136.1) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M233.33,136.27h-.58M233.27,136.27h.52M233.96,134.17h-1.36M232.59,134.17l.68,2.1M228.45,136.27v1.26M228.45,134.17v-2.15M228.45,136.27l.68-2.1"/>
+      <text class="cls-25" transform="translate(233.58 136.36) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(234 136.1) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M238.04,136.27h-.63M237.99,136.27h.47M238.67,134.17h-1.36M237.31,134.17l.68,2.1M233.27,136.27v1.26M233.27,134.17v-2.15M233.27,136.27l.68-2.1"/>
+      <text class="cls-25" transform="translate(238.3 136.36) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(238.66 136.1) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M189.25,163.52V45.64M168.65,163.52h64.63M233.27,142.03v21.49M233.27,137.53v4.51M237.99,136.27v1.26M237.99,134.17v-2.15M237.99,136.27l.68-2.1"/>
+      <line class="cls-68" x1="175.3" y1="83.64" x2="175.3" y2="129.09"/>
+      <line class="cls-67" x1="228.4" y1="129.09" x2="228.4" y2="111.79"/>
+      <text class="cls-24" transform="translate(204.69 81.4) rotate(90) scale(1 1.02)"><tspan x="0" y="0">转</tspan><tspan class="cls-42" x="2.54" y="0">向</tspan><tspan class="cls-1" x="4.99" y="0">开关</tspan></text>
+      <line class="cls-68" x1="160.99" y1="96.17" x2="160.99" y2="102.46"/>
+      <path class="cls-67" d="M204.08,82.86v4.3M198.47,82.86h5.61M198.47,87.16v-4.3M204.08,87.16h-5.61M203.45,85.95l-.05-.1h-.21l-.05.1.05.1.1.05.1-.05.05-.1M199.2,85.95l-.05-.1h-.21v.21l.1.05.1-.05.05-.1M201.3,83.96l-.05-.1h-.21l-.05.1.05.1.1.05.1-.05.05-.1M201.2,84.12v1.89h-.1v-1.89h.1M160.99,104.98v24.11"/>
+      <path class="cls-68" d="M188.72,107.23h-13.42M198.52,107.23h-8.75M202.77,107.23h-3.2M233.27,107.23h-29.46"/>
+      <path class="cls-67" d="M202.77,111.79h-3.72M212.94,111.79h-9.12M214.46,111.79h-.47M228.4,111.79h-13.94M212.94,115.77h-9.64M223.32,115.77h-9.33"/>
+      <path class="cls-68" d="M189.77,107.23l-.16-.37-.37-.16-.37.16-.16.37M199.57,107.23l-.16-.37-.37-.16-.37.16-.16.37M203.82,107.23l-.16-.37-.37-.16-.37.16-.16.37"/>
+      <path class="cls-67" d="M189.77,111.79l-.16-.37-.37-.16-.37.16-.16.37M175.83,111.79l-.16-.37-.37-.16-.37.16-.16.37M169.01,111.79l-.16-.37-.37-.16-.37.16-.16.37M161.52,111.79l-.16-.37-.37-.16-.37.16-.16.37M161.52,115.77l-.16-.37-.37-.16-.37.16-.16.37M175.83,115.77l-.16-.37-.37-.16-.37.16-.16.37M189.77,115.77l-.16-.37-.37-.16-.37.16-.16.37M199.57,115.77l-.16-.37-.37-.16-.37.16-.16.37M167.96,115.77h-6.45M174.78,115.77h-5.77M188.72,115.77h-12.89M198.52,115.77h-8.75M203.29,115.77h-3.72M165.29,111.79h-3.77M167.96,111.79h-2.67M174.78,111.79h-5.77M188.72,111.79h-12.89M199.05,111.79h-9.28M203.82,111.79l-.16-.37-.37-.16-.37.16-.16.37"/>
+      <line class="cls-68" x1="168.49" y1="77.09" x2="168.49" y2="45.59"/>
+      <g class="cls-59">
+        <rect class="cls-23" x="174.78" y="106.71" width="1" height="1.05"/>
+      </g>
+      <path class="cls-67" d="M286.86,57.38h2.15v.31h-2.15v-.31M169.01,115.77l-.16-.37-.37-.16-.37.16-.16.37"/>
+      <path class="cls-66" d="M45.68,42.29l.47-.16.31-.42v-.47l-.31-.42-.47-.16M45.73,36.26l.47-.16.26-.37v-.52l-.26-.42-.47-.16M45.73,30.81l.47-.16.26-.42v-.52l-.26-.42-.47-.1M45.73,22v-4.56M45.73,29.18v-5.56M45.73,34.64v-3.83M45.73,40.66v-4.4M45.73,45.64v-3.35M45.73,124.58V45.64"/>
+      <path class="cls-67" d="M77.55,146.65v-22.12M149.25,146.65h-71.7M149.25,124.53v22.12M77.55,124.53h71.7M56.79,40.66v-5.19M56.79,45.64v-3.35M56.79,124.58V45.64"/>
+      <path class="cls-68" d="M237.94,129.09V42.29M233.27,129.09v-21.86"/>
+      <polyline class="cls-67" points="297.71 162.74 310.24 162.74 310.24 169.03 297.71 169.03 297.71 162.74"/>
+      <text class="cls-31" transform="translate(282.05 127.58) scale(1 1.05)"><tspan x="0" y="0">C9</tspan></text>
+      <path class="cls-67" d="M283.03,113.42l-.05-.16h-.26v.26l.16.05.1-.05.05-.1M283.03,112.11l-.05-.1-.1-.05-.16.05v.21l.16.05.1-.05.05-.1M283.51,112.11v1.31h-.16v-1.31h.16M282.88,110.48v1.47M283.71,110.48v4.04h-1.78v-4.04h1.78M282.88,110.48v-8.07M282.88,124.95v-11.37"/>
+      <text class="cls-31" transform="translate(284.1 109.65) rotate(90) scale(1 1.05)"><tspan x="0" y="0">P</tspan></text>
+      <text class="cls-31" transform="translate(284.1 110.49) rotate(90) scale(1 1.05)"><tspan class="cls-95" x="0" y="0">档</tspan><tspan class="cls-90" x="2.06" y="0">开关</tspan></text>
+      <text class="cls-31" transform="translate(322.67 127.74) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <path class="cls-67" d="M323.45,42.24l.47-.16.26-.37v-.52l-.26-.42-.47-.16M323.45,40.61v-5.19M323.45,45.59v-3.35M323.45,124.95V45.59"/>
+      <path class="cls-66" d="M359.24,29.08v-6.29M359.24,34.58v-3.88M359.24,40.61v-4.35M359.24,45.64v-3.41M359.24,127.78V45.64"/>
+      <g class="cls-91">
+        <rect class="cls-23" x="160.47" y="118.34" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-123">
+        <rect class="cls-23" x="198.52" y="111.27" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-93">
+        <rect class="cls-23" x="202.77" y="115.25" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-16">
+        <rect class="cls-23" x="56.27" y="34.95" width="1.05" height="1"/>
+      </g>
+      <g class="cls-109">
+        <rect class="cls-23" x="45.21" y="16.97" width="1" height="1"/>
+      </g>
+      <g class="cls-11">
+        <rect class="cls-23" x="167.96" y="29.45" width="1.05" height="1"/>
+      </g>
+      <g class="cls-18">
+        <rect class="cls-23" x="188.72" y="34.9" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-97">
+        <rect class="cls-23" x="322.92" y="34.9" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-81">
+        <rect class="cls-23" x="358.72" y="22.27" width="1.05" height="1.05"/>
+      </g>
+      <polyline class="cls-67" points="56.79 42.29 57.26 42.13 57.58 41.71 57.58 41.19 57.26 40.82 56.79 40.66"/>
+      <path class="cls-68" d="M168.49,42.29l.47-.16.31-.42v-.52l-.31-.42-.47-.16M168.49,36.26l.47-.16.31-.42v-.47l-.31-.42-.47-.16"/>
+      <polyline class="cls-67" points="189.25 42.24 189.72 42.13 190.03 41.71 190.03 41.19 189.72 40.77 189.25 40.61"/>
+      <path class="cls-66" d="M359.24,42.24l.47-.16.31-.42v-.47l-.31-.42-.47-.16M359.24,36.26l.47-.16.31-.42v-.52l-.31-.42-.47-.16M359.24,30.7l.47-.16.31-.42v-.47l-.31-.42-.47-.16"/>
+      <path class="cls-67" d="M189.25,40.61v-5.14M189.25,45.64v-3.41"/>
+      <path class="cls-68" d="M168.49,34.64v-4.66M168.49,40.61v-4.35M168.49,45.59v-3.3"/>
+      <g class="cls-6">
+        <rect class="cls-23" x="267.47" y="96.54" width="1" height="1.05"/>
+      </g>
+      <g class="cls-22">
+        <rect class="cls-23" x="264.64" y="81.7" width="1.05" height="1.05"/>
+      </g>
+      <text class="cls-28" transform="translate(346.98 137.1) scale(1 1.03)"><tspan class="cls-58" x="0" y="0">D</tspan><tspan class="cls-8" x="2.07" y="0">C</tspan><tspan class="cls-58" x="4.17" y="0">-</tspan><tspan class="cls-124" x="6.24" y="0">D</tspan><tspan x="8.37" y="0">C</tspan></text>
+      <polyline class="cls-67" points="339.96 127.78 363.49 127.78 363.49 142.66 339.96 142.66 339.96 127.78"/>
+      <text class="cls-31" transform="translate(353.8 130.47) scale(1 1.05)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(348.4 130.57) scale(1 1.05)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-31" transform="translate(343.05 130.57) scale(1 1.05)"><tspan x="0" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(358.72 130.83) scale(1 1.05)"><tspan x="0" y="0">4</tspan></text>
+      <line class="cls-66" x1=".06" y1="17.44" x2="384.86" y2="17.44"/>
+      <path class="cls-67" d="M163.61,100.99h-3.56M160.99,105.24v-.05h.05v.05h-.05M161.31,104.98l-.1-.21-.21-.1-.16.1-.1.21.1.16.16.1.21-.1.1-.16M161.31,102.72l-.1-.21-.21-.05-.16.05-.1.21.1.16.16.1.21-.1.1-.16M161.31,102.88l1,1.94-.26.1-1-1.89.26-.16M160.05,106.44v-5.45M163.61,106.44h-3.56M163.61,100.99v5.45"/>
+      <text class="cls-24" transform="translate(156.68 99.7) rotate(90) scale(1 1.02)"><tspan class="cls-111" x="0" y="0">远</tspan><tspan class="cls-98" x="2.6" y="0">光</tspan><tspan class="cls-1" x="5.17" y="0">开关</tspan></text>
+      <line class="cls-68" x1="168.49" y1="90.61" x2="168.49" y2="101.05"/>
+      <text class="cls-31" transform="translate(313.7 142.89) scale(1 1.05)"><tspan x="0" y="0">C</tspan><tspan class="cls-84" x=".99" y="0">1</tspan><tspan x="2.06" y="0">2</tspan></text>
+      <text class="cls-31" transform="translate(318.74 142.84) scale(1 1.05)"><tspan x="0" y="0">C</tspan><tspan class="cls-84" x=".99" y="0">1</tspan><tspan x="2.06" y="0">3</tspan></text>
+      <path class="cls-67" d="M320.2,182.97H101.14M320.2,143.66v39.31M315.11,177.94H108.74M315.11,143.66v34.28"/>
+      <text class="cls-31" transform="translate(87.95 128) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">5</tspan></text>
+      <line class="cls-65" x1="88.66" y1="124.53" x2="88.66" y2="41.45"/>
+      <g class="cls-34">
+        <rect class="cls-23" x="88.14" y="40.93" width="1.05" height="1.05"/>
+      </g>
+      <text class="cls-31" transform="translate(324.5 142.84) scale(1 1.05)"><tspan x="0" y="0">C5</tspan></text>
+      <path class="cls-67" d="M325.33,188.63H46M325.33,143.66v44.97"/>
+      <text class="cls-27" transform="translate(372.07 28.58) scale(1 1.04)"><tspan x="0" y="0">D</tspan><tspan class="cls-55" x="1.09" y="0">C</tspan><tspan class="cls-71" x="2.26" y="0">D</tspan><tspan class="cls-114" x="3.42" y="0">C</tspan><tspan class="cls-47" x="4.57" y="0">_</tspan><tspan class="cls-87" x="5.66" y="0">1</tspan><tspan class="cls-35" x="6.85" y="0">2</tspan><tspan x="7.97" y="0">V</tspan></text>
+      <text class="cls-27" transform="translate(373.17 21.61) scale(1 1.04)"><tspan class="cls-51" x="0" y="0">B</tspan><tspan class="cls-132" x="1.14" y="0">+</tspan><tspan x="2.29" y="0">F</tspan></text>
+      <text class="cls-27" transform="translate(372.54 34.24) scale(1 1.04)"><tspan class="cls-51" x="0" y="0">B</tspan><tspan x="1.14" y="0">- </tspan></text>
+      <text class="cls-27" transform="translate(372.9 40.48) scale(1 1.04)"><tspan class="cls-134" x="0" y="0">A</tspan><tspan class="cls-132" x="1.13" y="0">C</tspan><tspan x="2.28" y="0">C</tspan></text>
+      <text class="cls-27" transform="translate(373.9 16.47) scale(1 1.04)"><tspan class="cls-51" x="0" y="0">B</tspan><tspan class="cls-132" x="1.14" y="0">+</tspan><tspan class="cls-107" x="2.29" y="0">B</tspan><tspan class="cls-47" x="3.43" y="0">R</tspan></text>
+      <text class="cls-31" transform="translate(264.39 142.89) scale(1 1.05)"><tspan x="0" y="0">C</tspan><tspan class="cls-84" x=".99" y="0">1</tspan><tspan x="2.06" y="0">0</tspan></text>
+      <path class="cls-67" d="M117.12,146.65v26.42M117.12,173.06h148.72M117.12,173.06v-.05h.05v.05h-.05M265.84,143.66v29.41"/>
+      <text class="cls-31" transform="translate(116.67 145.46) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">2</tspan></text>
+      <path class="cls-67" d="M115.29,124.53v-52.31M183.01,72.22h-67.72M188.72,72.22h-19.71M217.08,72.22h-27.31"/>
+      <text class="cls-31" transform="translate(115.15 127.64) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">9</tspan></text>
+      <path class="cls-67" d="M169.01,72.22l-.16-.37-.37-.16-.37.16-.16.37M189.77,72.22l-.16-.37-.37-.16-.37.16-.16.37"/>
+      <text class="cls-31" transform="translate(291.69 137.65) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-72" x="1.02" y="0">:</tspan><tspan class="cls-57" x="2.05" y="0">6</tspan><tspan class="cls-106" x="3.11" y="0">P</tspan><tspan class="cls-21" x="4.13" y="0"> </tspan><tspan class="cls-33" x="5.18" y="0">B</tspan><tspan class="cls-49" x="6.26" y="0">:</tspan><tspan class="cls-92" x="7.29" y="0">8</tspan><tspan class="cls-99" x="8.35" y="0">P</tspan><tspan class="cls-138" x="9.38" y="0" xml:space="preserve"> C</tspan><tspan class="cls-72" x="11.47" y="0">:</tspan><tspan class="cls-92" x="12.5" y="0">1</tspan><tspan class="cls-77" x="13.57" y="0">6</tspan><tspan x="14.62" y="0">P</tspan></text>
+      <text class="cls-31" transform="translate(102.21 130.89) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(107.4 130.73) scale(1 1.05)"><tspan x="0" y="0">1</tspan><tspan class="cls-61" x=".99" y="0">2</tspan><tspan x="2.06" y="0">V</tspan></text>
+      <text class="cls-31" transform="translate(135.59 130.57) scale(1 1.05)"><tspan class="cls-46" x="0" y="0">远</tspan><tspan class="cls-60" x="2.04" y="0">光</tspan><tspan x="4.1" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(125.01 130.62) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">左</tspan><tspan class="cls-5" x="2.01" y="0">转</tspan><tspan x="4.06" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(130.41 130.68) scale(1 1.05)"><tspan class="cls-62" x="0" y="0">右</tspan><tspan class="cls-54" x="2.03" y="0">转</tspan><tspan class="cls-116" x="4.08" y="0">灯</tspan></text>
+      <text class="cls-31" transform="translate(87.06 130.73) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <text class="cls-31" transform="translate(112.9 130.62) scale(1 1.05)"><tspan class="cls-86" x="0" y="0">闪</tspan><tspan class="cls-60" x="1.93" y="0">光</tspan><tspan x="4" y="0">器</tspan></text>
+      <text class="cls-31" transform="translate(113.11 133.77) scale(1 1.05)"><tspan class="cls-39" x="0" y="0">输</tspan><tspan x="2.04" y="0">出</tspan></text>
+      <text class="cls-31" transform="translate(114.84 142.89) scale(1 1.05)"><tspan x="0" y="0">一</tspan><tspan class="cls-85" x="1.97" y="0">线</tspan><tspan x="4.06" y="0">通</tspan></text>
+      <text class="cls-31" transform="translate(266.59 130.41) scale(1 1.05)"><tspan x="0" y="0">刹车</tspan></text>
+      <text class="cls-31" transform="translate(326.65 130.1) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <text class="cls-31" transform="translate(294.63 130.41) scale(1 1.05)"><tspan x="0" y="0">功</tspan><tspan class="cls-32" x="1.97" y="0">能</tspan><tspan x="4" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(281.89 130.36) scale(1 1.05)"><tspan x="0" y="0">P</tspan></text>
+      <text class="cls-31" transform="translate(282.73 130.36) scale(1 1.05)"><tspan x="0" y="0">档</tspan></text>
+      <text class="cls-31" transform="translate(281.47 140.53) scale(1 1.05)"><tspan class="cls-138" x="0" y="0">5</tspan><tspan x="1.05" y="0">V</tspan></text>
+      <text class="cls-31" transform="translate(284.41 140.63) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(286.92 140.53) scale(1 1.05)"><tspan x="0" y="0">HA</tspan></text>
+      <text class="cls-31" transform="translate(289.44 140.53) scale(1 1.05)"><tspan x="0" y="0">HB</tspan></text>
+      <text class="cls-31" transform="translate(306.94 140.74) scale(1 1.05)"><tspan class="cls-136" x="0" y="0">电</tspan><tspan x="1.93" y="0">源</tspan></text>
+      <text class="cls-31" transform="translate(302.18 140.79) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">信</tspan><tspan x="2.01" y="0">号</tspan></text>
+      <text class="cls-31" transform="translate(298.56 140.69) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(292.22 140.53) scale(1 1.05)"><tspan x="0" y="0">HC</tspan></text>
+      <text class="cls-31" transform="translate(312.71 140.74) scale(1 1.05)"><tspan class="cls-62" x="0" y="0">锁</tspan><tspan x="2.03" y="0">电机</tspan></text>
+      <text class="cls-31" transform="translate(318.68 140.69) scale(1 1.05)"><tspan class="cls-40" x="0" y="0">轮</tspan><tspan x="2.02" y="0">动</tspan></text>
+      <text class="cls-31" transform="translate(323.66 140.63) scale(1 1.05)"><tspan x="0" y="0">一</tspan><tspan class="cls-85" x="1.97" y="0">线</tspan><tspan x="4.06" y="0">通</tspan></text>
+      <text class="cls-31" transform="translate(263.7 140.69) scale(1 1.05)"><tspan x="0" y="0">一</tspan><tspan class="cls-85" x="1.97" y="0">线</tspan><tspan x="4.06" y="0">通</tspan></text>
+      <text class="cls-31" transform="translate(353.48 133.04) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(347.35 132.98) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <text class="cls-31" transform="translate(341.9 132.99) scale(1 1.05)"><tspan x="0" y="0">1</tspan><tspan class="cls-61" x=".99" y="0">2</tspan><tspan x="2.06" y="0">V</tspan></text>
+      <text class="cls-31" transform="translate(358.04 132.88) scale(1 1.05)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <text class="cls-31" transform="translate(120.92 127.64) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-56" x="1.02" y="0">4</tspan></text>
+      <text class="cls-31" transform="translate(118.98 130.68) scale(1 1.05)"><tspan x="0" y="0">背光</tspan></text>
+      <text class="cls-31" transform="translate(122.12 130.68) scale(1 1.05)"><tspan x="0" y="0">灯</tspan></text>
+      <path class="cls-67" d="M214.46,111.79h-.47M214.46,115.77h-.47"/>
+      <text class="cls-24" transform="translate(215.7 132.87) rotate(90) scale(1 1.02)"><tspan class="cls-38" x="0" y="0">牌</tspan><tspan class="cls-133" x="2.61" y="0">照</tspan><tspan class="cls-1" x="5.1" y="0">灯</tspan></text>
+      <path class="cls-67" d="M213.51,136.79h-.58M213.46,136.79h.52M214.14,134.7h-1.36M212.78,134.7l.68,2.1M211.94,142.09v-13M214.98,142.09h-3.04M214.98,129.09v13M211.94,129.09h3.04"/>
+      <text class="cls-25" transform="translate(213.82 136.88) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <text class="cls-25" transform="translate(214.19 136.62) rotate(45) scale(1 1.08)"><tspan x="0" y="0">→</tspan></text>
+      <path class="cls-67" d="M213.46,136.79v3.25M213.46,134.7v-3.67M213.46,136.79l.68-2.1"/>
+      <line class="cls-68" x1="213.46" y1="129.09" x2="213.46" y2="107.23"/>
+      <line class="cls-67" x1="213.46" y1="142.09" x2="213.46" y2="163.52"/>
+      <g class="cls-128">
+        <rect class="cls-23" x="212.94" y="106.71" width="1.05" height="1.05"/>
+      </g>
+      <path class="cls-67" d="M213.99,115.77l-.16-.37-.37-.16-.37.16-.16.37M213.99,111.79l-.16-.37-.37-.16-.37.16-.16.37"/>
+      <path class="cls-66" d="M95.63,42.29l.52-.16.26-.42v-.47l-.26-.42-.52-.16M95.68,36.26l.47-.16.31-.37v-.52l-.31-.42-.47-.16M95.68,30.81l.47-.16.31-.42v-.52l-.31-.42-.47-.1M95.68,29.18v-6.39M95.68,34.64v-3.83M95.68,40.66v-4.4M95.68,124.53V42.29"/>
+      <g class="cls-50">
+        <rect class="cls-23" x="95.16" y="22.32" width="1.05" height="1.05"/>
+      </g>
+      <path class="cls-67" d="M101.14,146.65v36.32M108.74,146.65v31.29"/>
+      <text class="cls-31" transform="translate(108.55 145.46) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">3</tspan></text>
+      <text class="cls-31" transform="translate(106.87 142.94) scale(1 1.05)"><tspan class="cls-62" x="0" y="0">锁</tspan><tspan x="2.03" y="0">电机</tspan></text>
+      <text class="cls-31" transform="translate(100.84 145.46) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">6</tspan></text>
+      <text class="cls-31" transform="translate(99.64 142.94) scale(1 1.05)"><tspan class="cls-40" x="0" y="0">轮</tspan><tspan x="2.02" y="0">动</tspan></text>
+      <text class="cls-31" transform="translate(111.07 139.69) scale(1 1.05)"><tspan class="cls-37" x="0" y="0">A</tspan><tspan class="cls-72" x="1.02" y="0">:</tspan><tspan class="cls-57" x="2.05" y="0">6</tspan><tspan class="cls-106" x="3.11" y="0">P</tspan><tspan class="cls-21" x="4.13" y="0"> </tspan><tspan class="cls-33" x="5.18" y="0">B</tspan><tspan class="cls-49" x="6.26" y="0">:</tspan><tspan class="cls-14" x="7.29" y="0">9</tspan><tspan class="cls-99" x="8.33" y="0">P</tspan><tspan x="9.36" y="0"> </tspan></text>
+      <text class="cls-31" transform="translate(95.03 128) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">4</tspan></text>
+      <text class="cls-31" transform="translate(94.71 130.73) scale(1 1.05)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <g class="cls-89">
+        <rect class="cls-23" x="167.96" y="83.12" width="1.05" height="1.05"/>
+      </g>
+      <text class="cls-31" transform="translate(288.34 127.59) scale(1 1.05)"><tspan class="cls-13" x="0" y="0">B</tspan><tspan class="cls-56" x="1.03" y="0">4</tspan></text>
+      <path class="cls-67" d="M289.32,113.42l-.05-.16h-.26l-.05.16.05.1.16.05.1-.05.05-.1M289.32,112.11l-.05-.1-.1-.05-.16.05-.05.1.05.1.16.05.1-.05.05-.1M289.79,112.11v1.31h-.16v-1.31h.16M289.17,110.48v1.47M290,110.48v4.04h-1.78v-4.04h1.78M289.17,110.48v-8.07M289.17,124.95v-11.37"/>
+      <text class="cls-31" transform="translate(290.33 110.13) rotate(90) scale(1 1.05)"><tspan class="cls-106" x="0" y="0">档</tspan><tspan class="cls-94" x="2.01" y="0">位</tspan><tspan class="cls-115" x="4.1" y="0">开</tspan><tspan x="6.15" y="0">关</tspan></text>
+      <text class="cls-31" transform="translate(288.18 130.41) scale(1 1.05)"><tspan class="cls-99" x="0" y="0">档</tspan><tspan x="2.01" y="0">位</tspan></text>
+      <path class="cls-66" d="M318.31,23.63l.47-.16.26-.42v-.52l-.26-.37-.47-.16M45.73,23.63l.47-.16.26-.42v-.52l-.26-.37-.47-.16"/>
+      <path class="cls-68" d="M237.94,34.64v-4.72M237.94,40.66v-4.4"/>
+      <g class="cls-53">
+        <rect class="cls-23" x="237.42" y="29.39" width="1.05" height="1.05"/>
+      </g>
+      <path class="cls-68" d="M237.94,36.26l.52-.16.26-.42v-.47l-.26-.42-.52-.16M237.94,42.29l.52-.16.26-.42v-.52l-.26-.37-.52-.16"/>
+      <path class="cls-67" d="M246.01,137.53v-40.41M237.99,137.53h8.02"/>
+      <line class="cls-68" x1="168.49" y1="83.64" x2="175.3" y2="83.64"/>
+      <polyline class="cls-67" points="63.92 3.92 67.96 3.92 67.96 6.28 63.92 6.28 63.92 3.92"/>
+      <text class="cls-29" transform="translate(62.37 3.06) scale(1 1.01)"><tspan class="cls-105" x="0" y="0">保</tspan><tspan x="3.15" y="0">险丝</tspan></text>
+      <line class="cls-67" x1="63.92" y1="5.07" x2="67.96" y2="5.07"/>
+      <path class="cls-66" d="M56.11,5.07v6.19M27.13,5.07v7.02M38.76,5.07h-11.64"/>
+      <g class="cls-70">
+        <rect class="cls-23" x="55.53" y="16.92" width="1.05" height="1.05"/>
+      </g>
+      <polyline class="cls-66" points="56.11 12.88 56.58 12.73 56.9 12.36 56.9 11.83 56.58 11.42 56.11 11.26"/>
+      <g class="cls-113">
+        <rect class="cls-23" x="26.6" y="11.57" width="1.05" height="1.05"/>
+      </g>
+      <line class="cls-66" x1=".06" y1="12.1" x2="384.86" y2="12.1"/>
+      <text class="cls-27" transform="translate(373.9 11.12) scale(1 1.04)"><tspan class="cls-51" x="0" y="0">B</tspan><tspan x="1.14" y="0">+</tspan></text>
+      <path class="cls-67" d="M38.76,5.07h1.78M38.76,3.19h6.45v3.88h-6.45v-3.88"/>
+      <text class="cls-29" transform="translate(38.58 2.7) scale(1 1.01)"><tspan class="cls-129" x="0" y="0">空</tspan><tspan x="3" y="0">气开关</tspan></text>
+      <path class="cls-67" d="M45.21,5.07h-2.41M42.8,5.07l-.05-.1h-.16l-.05.1.05.1.05.05.1-.05.05-.1M40.81,4.97l1.83-.42v.1l-1.78.42-.05-.1M40.81,5.07v-.1l-.1-.05-.1.05-.05.1.05.05.1.05.1-.05v-.05"/>
+      <path class="cls-66" d="M76.29,18.23v4.56M76.29,12.88v3.72M76.29,5.07v6.19M56.11,5.07h20.18M56.11,12.88v4.56"/>
+      <g class="cls-96">
+        <rect class="cls-23" x="75.77" y="22.32" width="1.05" height="1"/>
+      </g>
+      <path class="cls-66" d="M19.32,18.23l.47-.16.31-.37v-.52l-.31-.42-.47-.16M56.11,5.07h-10.9M76.29,18.23l.47-.16.31-.37v-.52l-.31-.42-.47-.16M76.29,12.88l.47-.16.31-.37v-.52l-.31-.42-.47-.16"/>
+      <path class="cls-67" d="M81.64,94.91l-1.26,3.2M82.11,94.91l-.16-.37-.31-.1-.37.1-.1.37.1.31.37.16.31-.16.16-.31M82.11,98.63l-.16-.37-.31-.16-.37.16-.1.37.1.31.37.16.31-.16.16-.31"/>
+      <path class="cls-65" d="M81.64,111.58h7.02M81.64,98.63v12.95"/>
+      <path class="cls-66" d="M81.59,42.29l.52-.16.26-.42v-.47l-.26-.42-.52-.16M81.64,36.26l.47-.16.31-.37v-.52l-.31-.42-.47-.16M81.64,30.81l.47-.16.31-.42v-.52l-.31-.42-.47-.1M81.64,29.18v-6.39M81.64,34.64v-3.83M81.64,40.66v-4.4M81.64,94.91v-52.63"/>
+      <g class="cls-12">
+        <rect class="cls-23" x="81.11" y="22.32" width="1.05" height="1.05"/>
+      </g>
+      <text class="cls-29" transform="translate(46.6 136.52) scale(1 1.01)"><tspan x="0" y="0">充</tspan><tspan class="cls-129" x="3.1" y="0">电</tspan><tspan x="6.1" y="0">口</tspan></text>
+      <path class="cls-67" d="M41.49,145.49v-20.91M60.57,145.49h-19.08M41.49,124.58h19.08"/>
+      <text class="cls-31" transform="translate(45.39 127.53) scale(1 1.05)"><tspan x="0" y="0">1</tspan></text>
+      <text class="cls-31" transform="translate(56.56 127.53) scale(1 1.05)"><tspan x="0" y="0">3</tspan></text>
+      <path class="cls-67" d="M46,188.63v-43.14M60.57,124.58v20.91"/>
+      <text class="cls-29" transform="translate(21.65 136.1) scale(1 1.01)"><tspan x="0" y="0">B</tspan><tspan class="cls-2" x="1.55" y="0">a</tspan><tspan x="3.13" y="0">t</tspan><tspan class="cls-83" x="4.68" y="0">t</tspan><tspan class="cls-41" x="6.27" y="0">ery</tspan></text>
+      <path class="cls-67" d="M13.97,145.49v-20.91M34.88,145.49H13.97M34.88,124.58v20.91M13.97,124.58h20.91"/>
+      <text class="cls-31" transform="translate(27.89 127.48) scale(1 1.05)"><tspan class="cls-99" x="0" y="0">P</tspan><tspan class="cls-56" x="1.03" y="0">-</tspan></text>
+      <text class="cls-31" transform="translate(44.71 130.15) scale(1 1.05)"><tspan class="cls-7" x="0" y="0">V</tspan><tspan class="cls-138" x="1.02" y="0">C</tspan><tspan x="2.07" y="0">C</tspan></text>
+      <text class="cls-31" transform="translate(56.24 130.31) scale(1 1.05)"><tspan x="0" y="0">地</tspan></text>
+      <text class="cls-31" transform="translate(44.97 144.09) scale(1 1.05)"><tspan x="0" y="0">C</tspan><tspan class="cls-74" x=".99" y="0">R</tspan><tspan x="2.07" y="0">G</tspan></text>
+      <text class="cls-31" transform="translate(18.4 127.48) scale(1 1.05)"><tspan class="cls-99" x="0" y="0">P</tspan><tspan class="cls-56" x="1.03" y="0">+</tspan></text>
+      <path class="cls-67" d="M28.7,40.66v-5.19M28.7,124.58V42.29"/>
+      <g class="cls-101">
+        <rect class="cls-23" x="28.17" y="34.95" width="1.05" height="1"/>
+      </g>
+      <polyline class="cls-67" points="28.7 42.29 29.17 42.13 29.48 41.71 29.48 41.19 29.17 40.82 28.7 40.66"/>
+      <line class="cls-68" x1="121.32" y1="124.53" x2="121.32" y2="96.17"/>
+      <path class="cls-67" d="M354.16,156.55h1.1l.37.1.1.16.1.21v.37l-.1.26-.1.1-.37.16h-1.1M354.16,155.35h1.1l.37.1.1.1.1.26v.26l-.1.21-.1.16-.37.1M354.16,155.35v2.57M353.27,155.71l-.21-.26-.37-.1h-.52l-.37.1-.21.26v.21l.1.26.1.1.26.16.73.21.26.16.1.1.1.26v.37l-.21.21-.37.16h-.52l-.37-.16-.21-.21M349.02,155.35v1.83l.1.37.26.21.37.16h.21l.37-.16.26-.21.1-.37v-1.83M346.98,160.22v-7.91M357.67,160.22h-10.69M357.67,152.31v7.91M346.98,152.31h10.69"/>
+      <text class="cls-26" transform="translate(354.36 154.21) scale(1 1.01)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-26" transform="translate(348.96 154.26) scale(1 1.01)"><tspan x="0" y="0">1</tspan></text>
+      <path class="cls-67" d="M354.74,152.31v-9.64M349.29,152.31v-9.64"/>
+      <text class="cls-24" transform="translate(75.11 93.2) rotate(90) scale(1 1.02)"><tspan x="0" y="0">钥</tspan><tspan class="cls-135" x="2.54" y="0">匙</tspan><tspan class="cls-1" x="5.15" y="0">开关</tspan></text>
+      <path class="cls-67" d="M171.06,86.42h-3.56M168.44,90.61v-.05h.05v.05h-.05M168.75,90.35l-.1-.16-.21-.1-.16.1-.1.16.1.21.16.05.21-.05.1-.21M168.75,88.15l-.1-.21-.21-.05-.16.05-.1.21.1.16.16.1.21-.1.1-.16M168.75,88.31l1,1.89-.26.16-1-1.94.26-.1M167.49,91.87v-5.45M171.06,91.87h-3.56M171.06,86.42v5.45"/>
+      <text class="cls-24" transform="translate(164.12 85.18) rotate(90) scale(1 1.02)"><tspan x="0" y="0">近</tspan></text>
+      <text class="cls-24" transform="translate(164.12 87.17) rotate(90) scale(1 1.02)"><tspan class="cls-98" x="0" y="0">光</tspan><tspan class="cls-1" x="2.57" y="0">开关</tspan></text>
+      <path class="cls-67" d="M171.06,75.62h-3.56M168.44,79.87v-.05h.05v.05h-.05M168.75,79.56l-.1-.16-.21-.1-.16.1-.1.16.1.21.16.1.21-.1.1-.21M168.75,77.35l-.1-.21-.21-.05-.16.05-.1.21.1.16.16.1.21-.1.1-.16M168.75,77.51l1,1.94-.26.1-1-1.89.26-.16M167.49,81.08v-5.45M171.06,81.08h-3.56M171.06,75.62v5.45"/>
+      <text class="cls-24" transform="translate(164.12 74.43) rotate(90) scale(1 1.02)"><tspan class="cls-38" x="0" y="0">位</tspan><tspan class="cls-1" x="2.61" y="0">置</tspan></text>
+      <text class="cls-24" transform="translate(164.12 78.37) rotate(90) scale(1 1.02)"><tspan class="cls-36" x="0" y="0">灯</tspan><tspan x="2.58" y="0">开关</tspan></text>
+      <line class="cls-68" x1="121.32" y1="96.17" x2="168.49" y2="96.17"/>
+      <g class="cls-17">
+        <rect class="cls-23" x="167.96" y="95.65" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-3">
+        <rect class="cls-23" x="160.47" y="95.65" width="1.05" height="1.05"/>
+      </g>
+      <line class="cls-67" x1="203.29" y1="97.9" x2="217.08" y2="97.9"/>
+      <text class="cls-24" transform="translate(210.72 80.93) rotate(90) scale(1 1.02)"><tspan class="cls-102" x="0" y="0">双</tspan><tspan class="cls-52" x="2.6" y="0">闪</tspan><tspan x="5.07" y="0">开关</tspan></text>
+      <path class="cls-67" d="M217.08,85.85h-2.15M217.08,86.11v-.05h.05v.05h-.05M217.34,85.85l-.05-.21-.21-.05-.16.05-.1.21.1.21.16.05.21-.05.05-.21M217.08,84.59v-12.37M213.67,88.31v-5.45M217.08,87.1v-.05h.05v.05h-.05M217.34,86.84l-.05-.21-.21-.1-.16.1-.1.21.1.16.16.1.21-.1.05-.16M217.34,84.59l-.05-.21-.21-.05-.16.05-.1.21.1.21.16.05.21-.05.05-.21M217.39,84.74l.94,1.94-.21.1-1-1.89.26-.16M213.67,82.86h4.82M218.49,88.31h-4.82M218.49,82.86v5.45M214.93,90.14v1.05M214.93,91.19h-15.88M214.93,85.85v4.3M217.08,86.84v11.06"/>
+      <g class="cls-64">
+        <rect class="cls-23" x="202.77" y="97.38" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-63">
+        <rect class="cls-23" x="198.52" y="90.67" width="1.05" height="1.05"/>
+      </g>
+      <g class="cls-122">
+        <rect class="cls-23" x="200.62" y="71.69" width="1.05" height="1.05"/>
+      </g>
+      <text class="cls-31" transform="translate(323.3 138.38) scale(1 1.05)"><tspan class="cls-49" x="0" y="0">充</tspan><tspan x="2.02" y="0">电</tspan></text>
+      <text class="cls-31" transform="translate(326.39 138.38) scale(1 1.05)"><tspan class="cls-130" x="0" y="0">S</tspan><tspan class="cls-48" x="1.06" y="0">O</tspan><tspan class="cls-56" x="2.1" y="0">C</tspan></text>
+      <polyline class="cls-67" points="44.53 79.14 44.53 75.05 46.89 75.05 46.89 79.14 44.53 79.14"/>
+      <text class="cls-29" transform="translate(43.61 80.72) rotate(-90) scale(1 1.01)"><tspan class="cls-79" x="0" y="0">保</tspan><tspan x="3.15" y="0">险丝</tspan></text>
+      <line class="cls-67" x1="45.73" y1="79.14" x2="45.73" y2="75.05"/>
+    </g>
+  </g>
+</svg>
